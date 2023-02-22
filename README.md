@@ -4,8 +4,10 @@
 - 🧑‍💻 I'm an IoT Solutions Engineer & a product Developer.
 - 👯 I'm looking to collaborate on Python, C, IoTSolutions and EmbeddedAI based products.
 - 🤔 I'm on [Twitter](https://twitter.com/aron_ayub) - @aron_ayub
-- 📫 I'm on [LinkiedIn](https://www.linkedin.com/in/aron-ayub/) Aron Ayub
-
+- 📫 I'm on [LinkiedIn](https://www.linkedin.com/in/aron-ayub/)- Aron Ayub
+- 📚 Check my [medium-account](https://medium.com/@aronayub) - @aronayub
+- 📹 Check my [YouTube](https://www.youtube.com/@AronAyub/videos) - @AronAyub
+- ⚡Fun Facts: I'm a guitarist😁 👉 🎸, they say playing an instrumet improves cognitivity, creativity, memory, problem-solving skills 🤔 & may contribute to emotional development which positively impact you ! It's true learn an instrument 😃.  
 
 
 
@@ -28,4 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-https://twitter.com/aron_ayub
