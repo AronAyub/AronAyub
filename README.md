@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's up? 👋
 
 - 🔭 I’m Aron Ayub
 - 🧑‍💻 I'm an IoT Solutions Engineer & a product Developer.
