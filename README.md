@@ -11,13 +11,6 @@
 - ⚡Fun Facts: They say playing an instrument improves cognitivity, creativity, memory, problem-solving skills 🤔 & may contribute to emotional development which positively impact you ! This could be true 😄 
 - 🔭 Tech is a Tool
 
-
-
-
-
-
-:technologist:
-
 <!--
 **AronAyub/AronAyub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
