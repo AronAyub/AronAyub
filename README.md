@@ -3,6 +3,7 @@
 - 🔭 I’m Aron Ayub
 - 🧑‍💻 I'm an IoT Solutions Engineer & a product Developer.
 - 👯 I'm looking to collaborate on Python, C, IoTSolutions and EmbeddedAI based products.
+- 💞️ Thinking of an initiative to make Africa a better place? We can as well collaborate. 
 - 🤔 I'm on [Twitter](https://twitter.com/aron_ayub) - @aron_ayub
 - 📫 I'm on [LinkiedIn](https://www.linkedin.com/in/aron-ayub/)- Aron Ayub
 - 📚 Check my [medium-account](https://medium.com/@aronayub) - @aronayub
