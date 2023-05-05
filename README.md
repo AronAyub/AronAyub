@@ -1,7 +1,8 @@
 ### What's up? 👋
 
 - 🔭 I’m Aron Ayub
-- 🧑‍💻 I'm an IoT Solutions Engineer & a product Developer.
+- 🔭 https://aronayub.github.io/my-portifolio/#home
+- 🧑‍💻 I'm an IoT Solutions Engineer & a Solution lead/Developer.
 - 👯 I'm looking to collaborate on Python, C, IoTSolutions and EmbeddedAI based products.
 - 💞️ Thinking of an initiative to make Africa a better place? We can as well collaborate. 
 - 🤔 I'm on [Twitter](https://twitter.com/aron_ayub) - @aron_ayub
