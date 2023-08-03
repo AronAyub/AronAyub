@@ -3,7 +3,7 @@
 - 🔭 I’m Aron Ayub
 - 🔭 https://aronayub.github.io/my-portifolio/#home
 - 🧑‍💻 I'm an IoT Solutions Engineer & a Solution lead/Developer.
-- 👯 I'm looking to collaborate on Python, C, IoTSolutions and EmbeddedAI based products. Ai ? Mmmh, NLP, Computer vision and creating anomaly detectors would be fun !
+- 👯 I'm looking to collaborate on Python, C, IoTSolutions and EmbeddedAI based products. Ai ? Mmmh, NLP, Computer vision, running EDGE Models and creating anomaly detectors would be fun !
 - 💞️ Thinking of an initiative to make Africa a better place? We can as well collaborate. 
 - 🤔 I'm on [Twitter](https://twitter.com/aron_ayub) - @aron_ayub
 - 📫 I'm on [LinkiedIn](https://www.linkedin.com/in/aron-ayub/)- Aron Ayub
