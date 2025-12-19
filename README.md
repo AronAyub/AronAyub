@@ -1,29 +1,53 @@
-### What's up? 👋
+### 👋 Hey, I’m Aron Ayub
 
-- 🔭 I’m Aron Ayub
-- 🔭 https://aronayub.github.io/my-portifolio/#home
-- 🧑‍💻 I'm an IoT Solutions Engineer & a Solution lead/Developer.
-- 👯 I'm looking to collaborate on Ai Projects, Python, C, IoTSolutions and EmbeddedAI based products. Ai ? Mmmh, NLP, Computer vision, running EDGE Models and infusing ai in Enterprise Solutions would be fun !
-- 💞️ Thinking of an initiative to make Africa a better place? We can as well collaborate. 
-- 🤔 I'm on [Twitter](https://twitter.com/aron_ayub) - @aron_ayub
-- 📫 I'm on [LinkiedIn](https://www.linkedin.com/in/aron-ayub/)- Aron Ayub
-- 📚 Check my [medium-account](https://medium.com/@aronayub) - @aronayub
-- 📹 Check my [YouTube](https://www.youtube.com/@AronAyub/videos) - @AronAyub
+🚀 **Built, scaled, and commercialized AI automation, Edge AI, and IoT systems** delivering **40%+ efficiency gains**, **30% lower cloud costs**, and **50%+ faster decision & response times** in production environments—supporting high-growth and enterprise-scale operations.
 
-- ⚡Fun Facts:  
-- ⚡ Tech is a Tool
+I’m a ** AI Automation, Full-Stack & Edge AI Engineer** with a strong **entrepreneurial mindset**. I design **end-to-end intelligent systems** that move from **idea → prototype → production → scale**, aligning **technical execution with business outcomes**.
+I work at the intersection of **AI, embedded systems, and cloud platforms**, helping teams **reduce costs, unlock new revenue streams, and operationalize AI** beyond proof-of-concepts.
 
-<!--
-**AronAyub/AronAyub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
+- **AI Automation & AI Agents** — Decision-driven workflows using AI agents, Make.com, n8n, APIs, and event-driven architectures  
+- **Machine Learning & GenAI** — TensorFlow, PyTorch, Hugging Face, LLMs for RAG, NLP, prediction, and analytics  
+- **Edge AI & TinyML** — NVIDIA Jetson, Raspberry Pi, Arm-based devices, TensorFlow Lite, ONNX Runtime  
+- **IoT & Embedded Systems** — Sensor integration, telemetry, low-power & solar deployments  
+- **Full-Stack & Cloud AI** — AWS / Azure, serverless architectures, MLOps, dashboards, and monitoring  
+
+---
+
+### 📈 How I Think (Engineering × Business)
+
+- Design for **ROI, scalability, and long-term maintainability**  
+- Build systems that **lower operational costs** and **increase decision speed**  
+- Prioritize **production readiness and user adoption**  
+- Balance **technical depth with business feasibility**  
+
+> **Technology is only valuable when it delivers measurable business impact.**
+
+---
+
+### 🤝 Open to Collaborate On
+
+- AI automation platforms & AI agent products  
+- Edge AI / TinyML solutions with commercial use cases  
+- Smart IoT products (utilities, energy, water, conservation)  
+- Full-stack AI startups & internal platforms  
+- Embedded AI systems moving toward commercialization  
+
+If you’re **building a product, scaling a platform, or turning AI into a real business advantage**, I’m open to collaboration.
+
+---
+
+### 🔗 Find Me Online
+
+- 🌐 Portfolio: https://aronayub.github.io/my-portifolio/#home  
+- 🐦 Twitter (X): https://twitter.com/aron_ayub  
+- 💼 LinkedIn: https://www.linkedin.com/in/aron-ayub/  
+- ✍🏽 Medium: https://medium.com/@aronayub  
+- 🎥 YouTube: https://www.youtube.com/@AronAyub/videos  
+
+---
+
+⚡ **Fun fact:** Tech is a tool — value is created when it solves real problems.
