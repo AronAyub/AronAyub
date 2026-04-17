@@ -2,7 +2,7 @@
 
 🚀 **Built, scaled, and commercialized AI automation, Edge AI, and IoT systems** delivering **40%+ efficiency gains**, **30% lower cloud costs**, and **50%+ faster decision & response times** in production environments—supporting high-growth and enterprise-scale operations.
 
-I’m a ** AI Automation, Full-Stack & Edge AI Engineer** from IoT/Embedded systems background over 10+ yrs with a strong **entrepreneurial mindset**. I design **end-to-end intelligent systems** that move from **idea → prototype → production → scale**, aligning **technical execution with business outcomes**.
+I’m a **AI Automation, Full-Stack & Edge AI Engineer** from IoT/Embedded systems background over 10+ yrs with a strong **entrepreneurial mindset**. I design **end-to-end intelligent systems** that move from **idea → prototype → production → scale**, aligning **technical execution with business outcomes**.
 I work at the intersection of **AI, embedded systems, and cloud platforms**, helping teams **reduce costs, unlock new revenue streams, and operationalize AI** beyond proof-of-concepts.
 
 ---
